@@ -10,7 +10,7 @@ Full stack software developer originally from Thailand with a passion to learn n
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chay-chay&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chay-chay&theme=dracula)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=300&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=300&fontSize=90&fontColor=7BD1D2)
 <!--
 **chay-chay/chay-chay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
