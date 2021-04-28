@@ -1,8 +1,19 @@
-### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20👋%20I'm%20Chay.&fontSize=90&fontColor=7BD1D2)
+### Hello! I'm a full-stack developer.
+
+Full stack software developer originally from Thailand with a passion to learn new technologies. Experienced in JavaScript and Ruby based programming with a background in International Business Management. Strong problem solving and organizational skills useful in any multidisciplinary setting. Effective in a team atmosphere with thoughtful attention to communication.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chay-chay&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chay-chay&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chay-chay&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chay-chay&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chay-chay&theme=dracula)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=300&fontSize=90)
 <!--
 **chay-chay/chay-chay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 Here are some ideas to get you started:
 
