@@ -4,7 +4,7 @@
 
 Full stack software developer originally from Thailand with a passion to learn new technologies. Experienced in JavaScript and Ruby based programming with a background in International Business Management. Strong problem solving and organizational skills useful in any multidisciplinary setting. Effective in a team atmosphere with thoughtful attention to communication.
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=chay-chay&count_private=true&show_icons=true&hide=contribs)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chay-chay&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chay-chay&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chay-chay&theme=dracula)
